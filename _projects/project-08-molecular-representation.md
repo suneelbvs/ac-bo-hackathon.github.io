@@ -3,12 +3,13 @@ number: 8 # leave as-is, maintainers will adjust
 title: BO for Drug Discovery-What is the role of molecular representation?
 topic: general
 team_leads:
-  - Fanjin Wang (Mechanical Engineering, University College London)
+  - Fanjin Wang (University College London)
 
 # Comment these lines to hide these elements
 contributors:
-  - Quinn Gallagher (Chemical and Biological Engineering, Princeton University)
+  - Quinn Gallagher (Princeton University)
   - Ankur Gupta (Lawrence Berkeley National Laboratory)
+  - Christina Schenk (IMDEA Materials Institute)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
