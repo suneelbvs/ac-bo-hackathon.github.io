@@ -59,7 +59,7 @@ As a teamleader, to initialize your project[<sup>(?)</sup>][faq]{:title="Can I p
 
 1. Copy the template from below into the file and fill in the title, topic, team leads, and contributors sections. Topic can be one of `benchmark-task`, `benchmark-dev`, `tutorial`, `real-world`, and `general`, per the topics listed above.
 2. Submit a pull request to the hackathon repository with the title "Add project \<your-team-name\>" and if applicable, tag your team members in the pull request description using the <code>@</code> symbol followed by their GitHub username. For example, <code>@sgbaird</code>. This can be updated later if needed.
-3. Once the pull request is merged, your project will appear on [the projects page](_/../../projects.md)
+3. Once the pull request is merged, your project will appear on [the projects page](_/../../projects)
 
 ```yaml
 ---
