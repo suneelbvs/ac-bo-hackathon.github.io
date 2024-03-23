@@ -16,22 +16,20 @@ contributors:
 
 ---
 
-Project Noisy Nerds description
-
 Research and development in lab settings necessarily results in imperfect data collection. Noise is introduced into R&D-scale datasets from a number of possible factors: 
- - Human error in measurement
- - Equipment malfunctions
- - Contamination
- - Calibration errors
- - Changing analytical methods
- - Imperfect reproducibility between scientists
- - Environmental factors (e.g., temperature, humidity)
+- Human error in measurement
+- Equipment malfunctions
+- Contamination
+- Calibration errors
+- Changing analytical methods
+- Imperfect reproducibility between scientists
+- Environmental factors (e.g., temperature, humidity)
 
-Due to the costly nature of continuous experimentation, R&D teams will ideally be able to employ bayesian optimization as soon as possible after few noisy, early stage experiments.
+Due to the costly nature of continuous experimentation, R&D teams will ideally be able to employ Bayesian optimization (BO) as soon as possible after an initial set of noisy, early stage experiments.
 
-This project aims to benchmark the effectiventss of bayesian optimization in reaching optima through noisy and sparse data. It should identify a threhsold where bayesian optimization becomes useful in terms of noise level and amount of data, and the tradeoff thereof.  Further, it should identify strategies to mitigate the impact of noise in future modeling efforts. Proposed project scope for the hackathon is formulation development where the tunable parameters are:
+This project aims to benchmark the effectiveness of BO in reaching optima despite noisy and sparse data. It should identify a threshold where BO becomes useful in terms of noise level and amount of data, and the tradeoff thereof.  Further, it should identify strategies to mitigate the impact of noise in future modeling efforts. Proposed project scope for the hackathon is formulation development where the tunable parameters are:
 
-1. Conitnuous: Mole-ratio of raw material 1
+1. Continuous: Mole-ratio of raw material 1
 2. Continuous: Mole-ration of raw material 2
 3. Continuous: Mole ratio of raw material 3
 4. Categorical: Molecule used for raw material 1
