@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 16 # leave as-is, maintainers will adjust
 title: BOPE-GPT, Preference Exploration with the curious AI chemist
 topic: general
 team_leads:
