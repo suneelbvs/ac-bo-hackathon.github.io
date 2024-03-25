@@ -8,6 +8,7 @@ team_leads:
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
   - Jakob Zeitler (University College London)
+  - Connor Rupnow (Author of "A self-driving laboratory optimizes a scalable process for making functional coatings")
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
