@@ -7,6 +7,7 @@ team_leads:
 # Comment these lines to hide these elements
 contributors:
   - Gbetondji Dovonon (<a href="http://matterhorn.studio">Matterhorn Studio</a>)
+  - Mohammed Azzouzi (mohammed.azzouzi15@imperial.ac.uk)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 
