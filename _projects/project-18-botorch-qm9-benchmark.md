@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 18 # leave as-is, maintainers will adjust
 title: Investigation of Multi-Objective Bayesian Optimization of QM9 Dataset
 topic: benchmark-task
 team_leads:
@@ -9,7 +9,7 @@ team_leads:
 
 ---
 
-This project will investigate the application of multi-objective Bayesian optimization (specifically EHVI- and parEGO-based methods to benchmark several multi-objective optimization tasks with QM9 dataset. The objective is to develop specific guidelines about the choice of surrogate and acquisition functions in the context of Multi-Objective Bayesian Optimization for molecular property optimization. 
+This project will investigate the application of multi-objective Bayesian optimization (specifically EHVI- and parEGO-based methods) to benchmark several multi-objective optimization tasks with QM9 dataset. The objective is to develop specific guidelines about the choice of surrogate and acquisition functions in the context of Multi-Objective Bayesian Optimization for molecular property optimization. 
 
 References:
 
