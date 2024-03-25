@@ -4,8 +4,12 @@ title: BOPE-GPT, Preference Exploration with the curious AI chemist
 topic: general
 team_leads:
   - Ricardo Valencia Albornoz (University of Edinburgh)
+  - Yuxin Shen (University of Edinburgh)
 
 contributors:
+  - Sabah Gaznaghi (University of Queensland)
+  - Clara Tamura (University of Washington)
+
 
 
 # github: AC-BO-Hackathon/<your-repo-name>
