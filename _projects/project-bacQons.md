@@ -15,7 +15,6 @@ contributors:
 
 ---
 
-Project description
 we introduce a novel approach to chemical design by implementing a Quantum Bayesian Optimization (QBO) method, enhancing the data-driven continuous representation of molecules. Leveraging the foundation of traditional BO used for exploring chemical spaces, our QBO framework integrates quantum computing principles to refine the optimization process. Through quantum parallelism, the QBO method surpasses classical BO limitations, enabling faster convergence to optimal solution. This project demonstrates the potential of quantum computing in chemical design, promising to expedite the discovery of new, functional compounds with applications in drug development and materials science.
 
 References:
