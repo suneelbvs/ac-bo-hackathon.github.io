@@ -51,10 +51,8 @@ Brainstorm, build, team up.
 
 | Time  | Activity |
 |-------|----------|
-| 09:00 | Welcome |
-| 09:15 | Speaker: Dr. Taylor Sparks, University of Utah. Title: TBD |
-| 09:30 | Speaker: Dr. Martin Fitzner, Merck KGaA. Title: Industrial view on BO – a perfect match for the low- to no-data regime |
-| 09:45 | Speaker: Max Balandat, Meta Adaptive Experimentation. Talk: TBD |
+| 09:00 | <b>Welcome</b> |
+| 09:05 | <b>Speakers:</b> <ul><li>Dr. Taylor Sparks, University of Utah. Title: TBD</li><li>Dr. Martin Fitzner, Merck KGaA. Title: Industrial view on BO – a perfect match for the low- to no-data regime</li><li>Max Balandat, Meta Adaptive Experimentation. Talk: TBD</li></ul> |
 | 10:00 | Orientation |
 | 10:10 | Breakout |
 | 13:00 | End of Day 1 |
@@ -66,7 +64,7 @@ Brainstorm, build, team up.
 | 09:00 | Welcome |
 | 09:10 | Breakout |
 | 12:00 | Project showcase and judging |
-| 12:50 | Closing remarks and takeaways |
+| 12:55 | Closing remarks and takeaways |
 | 13:00 | End of Day 2 |
 
 ### Mar 29
