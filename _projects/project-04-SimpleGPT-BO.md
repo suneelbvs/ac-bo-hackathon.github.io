@@ -14,7 +14,7 @@ team_leads:
 <!-- youtube_video: <your-video-id> -->
 ---
 
-SimpleGPT-BO is an intuitive tool designed to democratize the power of ChatGPT-driven Bayesian Optimization, making it accessible and straightforward for both beginners and experienced users alike.
+SimpleGPT-BO is an intuitive tool designed to democratize the power of ChatGPT-driven Bayesian Optimization, making it accessible and straightforward for both beginners and experienced users alike. The idea is simply to utilize MyGPT platform provided by ChatGPT to build BO tool, by providing the generated instructions and codes, to allow the users get an experience to use BO under ChatGPT. The prototype of the tool is given [here](https://chat.openai.com/g/g-cNzZt0hRp-chat-tpe). Since it has a lot of limitations, we are looking forward to get the suggestions from everyone to improve the tool during BO Hackathon. 
 
 - OpenAI. (2023). ChatGPT (Feb 13, 2024 version) [Large language model](https://chat.openai.com/chat)
 
