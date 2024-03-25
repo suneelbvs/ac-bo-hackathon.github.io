@@ -1,7 +1,7 @@
 ---
 number: 1 # leave as-is, maintainers will adjust
 title: Reliable Surrogate Models of Noisy Data
-topic: benchmark-task
+topic: general
 team_leads:
   - Darby Brown (EMD Electronics)
   - Vijay Narasimhan (EMD Electroncis)
