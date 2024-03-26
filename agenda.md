@@ -32,7 +32,7 @@ The anticipated schedule is as follows, with all times listed in Eastern Time (E
 The schedule for the event was as follows, with all times listed in Eastern Time (ET):
 {% endif %}
 
-## Now - Mar 27
+## Feb 22 - Mar 27
 
 Brainstorm, build, team up.
 
@@ -52,7 +52,7 @@ Brainstorm, build, team up.
 | Time  | Activity |
 |-------|----------|
 | 09:00 | Welcome |
-| 09:05 | Speakers: <br> - Dr. Taylor Sparks (University of Utah) \| *TBD* <br> - Dr. Martin Fitzner (Merck KGaA) \| *Industrial view on BO – a perfect match for the low- to no-data regime* <br> - Dr. Max Balandat (Meta Adaptive Experimentation) \| *Bayesian Optimization for Sustainable Concrete* |
+| 09:05 | Speakers: <br> - Dr. Taylor Sparks (University of Utah) \| *Discovering materials twice as fast at a fraction of the cost through Bayesian optimization* <br> - Dr. Martin Fitzner (Merck KGaA) \| *Industrial view on BO – a perfect match for the low- to no-data regime* <br> - Dr. Max Balandat (Meta Adaptive Experimentation) \| *Bayesian Optimization for Sustainable Concrete* |
 | 10:00 | Orientation |
 | 10:10 | Breakout |
 | 13:00 | End of Day 1 |
