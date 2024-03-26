@@ -32,7 +32,7 @@ The anticipated schedule is as follows, with all times listed in Eastern Time (E
 The schedule for the event was as follows, with all times listed in Eastern Time (ET):
 {% endif %}
 
-## Now - Mar 27
+## Feb 22 - Mar 27
 
 Brainstorm, build, team up.
 
