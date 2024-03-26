@@ -1,6 +1,6 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
-title: Benchmark - bayesian optimisation for materials discovery
+number: 23 # leave as-is, maintainers will adjust
+title: ScattBO Benchmark -Bayesian optimisation for materials discovery
 topic: benchmark-dev
 team_leads:
   - Andy S. Anker (Technical University of Denmark & University of Oxford)
@@ -8,14 +8,13 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-  - Andy S. Anker (Technical University of Denmark & University of Oxford)
+#  - Name (Affiliation)
 
 # github: AC-BO-Hackathon/project-ScattBO
 # youtube_video: <your-video-id>
 
 ---
 
-# ScattBo
 A self-driving laboratory (SDL) is an autonomous platform that conducts machine learning (ML) selected experiments to achieve a user-defined objective. An objective can be to synthesise a specific material.[1]
 Such an SDL will synthesise a material, evaluate if this is the target material and if necessary optimise the synthesis parameters for the next synthesis. One way to evaluate if the material is the target material is by measuring scattering data and comparing that to the scattering pattern of the target material.
 
@@ -53,7 +52,7 @@ validate that the target material has been synthesised.[3] The benchmark can inc
 <p align="center"><i>This scoreboard represents the performance of different BO algorithms on various of the ScattBO benchmarks. If you have new scores to report, feel free to contact us.</i></p>
 
 # Usage
-See XXXX for examples of single-objetive optimisation with [Dragonfly](https://github.com/dragonfly/dragonfly/tree/master) and XXX for multi-objective optimisation.
+See XXXX for examples of single-objective optimisation with [Dragonfly](https://github.com/dragonfly/dragonfly/tree/master) and XXX for multi-objective optimisation.
 
 ## Example usage with [Dragonfly](https://github.com/dragonfly/dragonfly/tree/master)
 ```python
