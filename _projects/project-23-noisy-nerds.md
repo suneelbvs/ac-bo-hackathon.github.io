@@ -16,14 +16,7 @@ contributors:
 
 ---
 
-Research and development in lab settings necessarily results in imperfect data collection. Noise is introduced into R&D-scale datasets from a number of possible factors: 
-- Human error in measurement
-- Equipment malfunctions
-- Contamination
-- Calibration errors
-- Changing analytical methods
-- Imperfect reproducibility between scientists
-- Environmental factors (e.g., temperature, humidity)
+Research and development in lab settings necessarily results in imperfect data collection. Noise is introduced into R&D-scale datasets from a number of possible factors, such as human error in measurement, equipment malfunctions, contamination, calibration errors, changing analytical methods, imperfect reproducibility between scientists, and environmental factors (e.g., temperature, humidity).
 
 Due to the costly nature of continuous experimentation, R&D teams will ideally be able to employ Bayesian optimization (BO) as soon as possible after an initial set of noisy, early stage experiments.
 
