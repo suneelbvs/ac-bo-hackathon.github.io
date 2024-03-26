@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 26 # leave as-is, maintainers will adjust
 title: Multiple-Context Bayesian Optimization
 topic: general
 team_leads:
@@ -26,5 +26,5 @@ In multi-context BO (which could also be referred to as transfer learning), the 
 In this project, we aim to investigate _(i)_ the multiple-context performance of BO frameworks on existing benchmarks, _(ii)_ develop new benchmarks for such tasks based on existing data, and _(iii)_ possibly also investigate different ways of incorporating prior knowledge into the model.
 
 References:
-  - https://github.com/emdgroup/baybe
+  - [https://github.com/emdgroup/baybe](https://github.com/emdgroup/baybe)
 
