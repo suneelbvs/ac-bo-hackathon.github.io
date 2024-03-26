@@ -1,9 +1,14 @@
 ---
 number: 1 # leave as-is, maintainers will adjust
 title: Bayesian Optimization for Generality
-topic: general
+topic: benchmark-dev
 team_leads:
   - Felix Strieth-Kalthoff (University of Toronto)
+  - Mohammad Haddadnia (Harvard University)
+  - Ella Rajaonson (University of Toronto)
+  - Stefan Schmid (ETH Zürich)
+  - Sean Park (University of Toronto)
+  - Yeonghun Kang (University of Toronto)
 
 contributors:
   - 
