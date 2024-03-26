@@ -52,9 +52,9 @@ Brainstorm, build, team up.
 | Time  | Activity |
 |-------|----------|
 | 09:00 | Welcome |
-| 09:05 | Speakers: <br> - Dr. Taylor Sparks (University of Utah) \| *TBD* <br> - Dr. Martin Fitzner (Merck KGaA) \| *Industrial view on BO – a perfect match for the low- to no-data regime* <br> - Dr. Max Balandat (Meta Adaptive Experimentation) \| *Bayesian Optimization for Sustainable Concrete* |
-| 10:00 | Orientation |
-| 10:10 | Breakout |
+| 09:05 | Speakers: <br> - Dr. Taylor Sparks (University of Utah) \| *Discovering materials twice as fast at a fraction of the cost through Bayesian optimization* <br> - Dr. Martin Fitzner (Merck KGaA) \| *Industrial view on BO – a perfect match for the low- to no-data regime* <br> - Dr. Max Balandat (Meta Adaptive Experimentation) \| *Bayesian Optimization for Sustainable Concrete* |
+| 9:50 | Orientation |
+| 10:00 | Breakout |
 | 13:00 | End of Day 1 |
 
 ### Day 2: Mar 28
