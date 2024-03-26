@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 25 # leave as-is, maintainers will adjust
 title: Bayesian Optimized De Novo Drug Design for Selective Kinase Targeting
 topic: real-world
 team_leads:
