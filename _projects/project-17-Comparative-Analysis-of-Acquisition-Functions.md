@@ -4,8 +4,13 @@ title: Comparative Analysis of Acquisition Functions in Bayesian Optimization fo
 topic: general
 team_leads:
   - Suneel Kumar BVS (Molecular Forecaster)
-  
+
 contributors:
+JanCSpies (University of Muenster)
+Jakub Lála (Imperial College London)
+Yunheng Zou (University of Waterloo)
+Luis Walter (Heidelberg University)
+Curtis Chong (University of Waterloo)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
