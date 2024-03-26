@@ -1,3 +1,4 @@
+---
 number: 20 # leave as-is, maintainers will adjust 
 title: Closed loop optimization of hydrogel formulations using dynamic light scattering 
 topic: real-world
