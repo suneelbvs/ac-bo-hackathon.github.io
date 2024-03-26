@@ -1,7 +1,7 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 27 # leave as-is, maintainers will adjust
 title: How does initial warm-up data influence Bayesian optimization in low-data experimental settings?
-topic: real-world, general
+topic: general
 team_leads:
   - Elton Pan (MIT)
   - Pengfei Cai (MIT)
