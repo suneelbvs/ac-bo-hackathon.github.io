@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 28 # leave as-is, maintainers will adjust
 title: The Impact of Dataset Size on Bayesian Optimization, Insights from the QM9 Dataset
 topic: benchmark-task
 team_leads:
@@ -24,5 +24,5 @@ deep learning for chemistry and beyond.
 
 References:
 
--O. Anatole von Lilienfeld and Kieron Burke. “Retrospective on a decade of machine learning for chemical discovery”. In: Nature Communications 11.1 (Sept. 2020). DOI: 10.1038/s41467- 020- 18556- 9. URL: https:
+1. Anatole von Lilienfeld and Kieron Burke. “Retrospective on a decade of machine learning for chemical discovery”. In: Nature Communications 11.1 (Sept. 2020). DOI: 10.1038/s41467- 020- 18556- 9. URL: https:
 //doi.org/10.1038/s41467-020-18556-9.
