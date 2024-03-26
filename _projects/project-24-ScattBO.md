@@ -1,5 +1,5 @@
 ---
-number: 23 # leave as-is, maintainers will adjust
+number: 24 # leave as-is, maintainers will adjust
 title: ScattBO Benchmark -Bayesian optimisation for materials discovery
 topic: benchmark-dev
 team_leads:
