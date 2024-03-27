@@ -7,13 +7,9 @@ team_leads:
   
 contributors:
   -Jan Christopher Spies (University of Muenster)
-
   -Jakub Lála (Imperial College London) 
-
   -Yunheng Zou (University of Waterloo)
-
   -Luis Walter (Heidelberg University)
-
   -Curtis Chong (University of Waterloo)
 
 # github: AC-BO-Hackathon/<your-repo-name>
