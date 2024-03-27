@@ -4,6 +4,8 @@ title: Investigation of Multi-Objective Bayesian Optimization of QM9 Dataset
 topic: benchmark-task
 team_leads:
   - Osman Mamun
+  - Aditya Sundar
+  - Akhil Nair
 
 # github: AC-BO-Hackathon/project-botorch-qm9-benchmark
 
