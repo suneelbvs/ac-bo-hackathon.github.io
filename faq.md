@@ -55,7 +55,7 @@ If you are interested in acting as a judge, please indicate so in the correspond
 
 ## How do I prepare for the project showcase?
 
-This can either be a poster image, a link to a video, or an embedded website. One of these objects will be placed into an interactive "poster" object for your project. The image or links must be supplied to the organizers at least 30 min prior to the showcase.
+This can either be a poster image, a link to a video, or an embedded website. One of these objects will be placed into an interactive "poster" object for your project. The image or links must be supplied to the organizers 15 min prior to the showcase (see [agenda](_/../agenda.md)).
 
 <!-- Better poster? -->
 
