@@ -1,7 +1,7 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
-title: RAMBO I: Retrieval augmented initialization for Bayesian optimization strategy
-topic: real-world
+number: 41 # leave as-is, maintainers will adjust
+title: RAMBO I - Retrieval augmented initialization for Bayesian optimization strategy
+topic: general
 team_leads:
   - Bojana Ranković (EPFL)
   - Andres M. Bran (EPFL)
