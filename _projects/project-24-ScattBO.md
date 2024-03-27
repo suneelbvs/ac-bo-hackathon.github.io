@@ -8,7 +8,7 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-#  - Name (Affiliation)
+#  - Samuel Ampofo Appiah (Ghana National Gas Company)
 
 # github: AC-BO-Hackathon/project-ScattBO
 # youtube_video: <your-video-id>
