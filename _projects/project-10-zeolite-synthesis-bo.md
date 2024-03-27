@@ -10,7 +10,7 @@ team_leads:
 #  - Contributor 1 (Institution 1)
 #  - Contributor 2 (Institution 2)
 
-# github: AC-BO-Hackathon/<your-repo-name>
+github: AC-BO-Hackathon/project-zeolite-synthesis-bayesian-optimisation
 # youtube_video: <your-video-id>
 
 ---
