@@ -1,3 +1,4 @@
+---
 number: 35 # leave as-is, maintainers will adjust
 title: Tutorial for GAUCHE: A Library for Gaussian Processes in Chemistry
 topic: tutorial
