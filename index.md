@@ -64,7 +64,7 @@ is open to researchers at all levels who are interested in Bayesian optimization
 ## Logistics
 
 The event will take place virtually, using a combination of **video
-conferencing** ([virtual Gather space](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)) for meetings and seminars and **discussion forums**
+conferencing** ([virtual Gather space](https://app.gather.town/events/nHv-tpANR6a7kCsPCgqJ)) for meetings and seminars and **discussion forums**
 ([Discourse](https://accelerated-discovery.discourse.group/), [Slack](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl)) for ongoing comms.
 
 <!-- [AC Discord](https://discord.gg/gZPKDH3pWU) -->

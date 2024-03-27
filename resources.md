@@ -14,7 +14,7 @@ menu_icon: journal-code
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals using the instructions here
 
-#### [Gather](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) - Add the Gather Town event to your calendar
+#### [Gather](https://app.gather.town/events/nHv-tpANR6a7kCsPCgqJ) - Add the Gather Town event to your calendar
 
 ####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account to join the discussion forums
 
