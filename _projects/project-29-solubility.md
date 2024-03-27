@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 29 # leave as-is, maintainers will adjust
 title: A Bayesian Approach to Predict Solubility Parameters
 topic: general
 team_leads:
