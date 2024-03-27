@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 42 # leave as-is, maintainers will adjust
 title: 
 topic: <topic-name>
 team_leads:
