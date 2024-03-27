@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 44 # leave as-is, maintainers will adjust
 title: RBBO - rank-based Bayesian optimization
 topic: general
 team_leads:
