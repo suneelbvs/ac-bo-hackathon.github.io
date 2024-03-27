@@ -1,7 +1,7 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 30 # leave as-is, maintainers will adjust
 title: Active learning for voltammetry waveform design
-topic: real-world
+topic: general
 team_leads:
   - Cameron Movassaghi (University of California, Los Angeles)
 
