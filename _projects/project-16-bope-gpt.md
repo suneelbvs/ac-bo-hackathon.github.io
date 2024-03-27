@@ -9,6 +9,7 @@ team_leads:
 contributors:
   - Sabah Gaznaghi (University of Queensland)
   - Clara Tamura (University of Washington)
+  - Ratish Panda (Birla Institute of Technology)
 
 
 
