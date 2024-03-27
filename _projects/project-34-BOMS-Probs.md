@@ -1,7 +1,7 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 34 # leave as-is, maintainers will adjust
 title:  Streamlining Material Discovery: Bayesian Optimization in Thermal Fluid Mixtures
-topic: real-world
+topic: general
 team_leads:
   - Roozbeh Alishahian (University of Toronto)
   - Mahyar Rajabi (University of Toronto)
