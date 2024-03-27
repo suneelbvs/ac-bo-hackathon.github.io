@@ -10,6 +10,7 @@ contributors:
   - Nilesh Jain (Notsohuman.ai)
   - Suraj Sudhakar (University of Chicago)
   - Jaehee Park (University of Chicago)
+  - Rija Ansari (National Research Council)
 
 github: AC-BO-Hackathon/real-world-pme-no-hikari
 # youtube_video: [Youtube_Video_ID]
