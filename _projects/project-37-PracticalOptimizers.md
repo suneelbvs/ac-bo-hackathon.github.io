@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 37 # leave as-is, maintainers will adjust
 title: Embedding System Knowledge into Bayesian Optimizers
 topic: general
 team_leads:
