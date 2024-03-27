@@ -1,5 +1,5 @@
 ---
-number: 25 # leave as-is, maintainers will adjust
+number: 43 # leave as-is, maintainers will adjust
 title: Bayesian Optimization for Generality
 topic: benchmark-dev
 team_leads:
