@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 36 # leave as-is, maintainers will adjust
 title: Scalable Nonmyopic Bayesian Optimization in Dynamic Cost Settings
 topic: general
 team_leads:
