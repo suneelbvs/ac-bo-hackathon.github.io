@@ -7,7 +7,7 @@ team_leads:
 #  - Project lead 2 (Institution 2) @gh-username2
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
-contributors:
+# contributors:
 #  - Contributor 1 (Institution 1) @gh-username3
 #  - Contributor 2 (Institution 2) @gh-username4
 
