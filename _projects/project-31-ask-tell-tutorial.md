@@ -1,6 +1,6 @@
 ---
 number: 31 # leave as-is, maintainers will adjust
-title: From Scikit-Optimize to Ax- A tutorial on human-in-the-loop Bayesian optimization  
+title: From Scikit-Optimize to Ax - A tutorial on human-in-the-loop Bayesian optimization  
 topic: tutorial
 team_leads:
   - Cameron Movassaghi (University of California, Los Angeles)
