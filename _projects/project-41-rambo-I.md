@@ -7,7 +7,7 @@ team_leads:
   - Andres M. Bran (EPFL)
   - Magdalena Lederbauer (EPFL)
   - Anna Borisova (EPFL)
-  - Geemi Wellawatte‬ (EPFL)
+  - Geemi Wellawatte (EPFL)
   - Philippe Schwaller (EPFL)
 
 
