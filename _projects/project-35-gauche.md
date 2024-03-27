@@ -1,6 +1,6 @@
 ---
 number: 35 # leave as-is, maintainers will adjust
-title: Tutorial for GAUCHE: A Library for Gaussian Processes in Chemistry
+title: Tutorial for GAUCHE - A Library for Gaussian Processes in Chemistry
 topic: tutorial
 team_leads:
   - Ryan-Rhys Griffiths
