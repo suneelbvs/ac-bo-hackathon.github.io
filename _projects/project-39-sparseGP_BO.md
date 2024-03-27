@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 39 # leave as-is, maintainers will adjust
 title: Exploring sparse Gaussian process models for materials discovery using Bayesian Optimization 
 topic: general
 team_leads:
