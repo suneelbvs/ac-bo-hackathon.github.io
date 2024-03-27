@@ -27,7 +27,7 @@ There is certainly a focus on Bayesian optimization, but you are welcome to use 
 
 ## Is the hackathon a competition?
 
-Yes, in some sense. Rather than collaborating on a single problem together, you will work either solo or in small teams to accomplish one of three tasks: applying a Bayesian optimization algorithm to one of the provided benchmark tasks, designing a new optimization benchmark, or creating concept-focused instructional tutorials. Submissions will be reviewed by a team of judges[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"}, and top-ranked projects will receive prizes sponsored by [Matterhorn Studio](https://matterhorn.studio/).
+Yes, in some sense. Rather than collaborating on a single problem together, you will work either solo or in small teams to accomplish one of several tasks: applying a Bayesian optimization algorithm to one of the provided benchmark tasks, designing new optimization benchmarks, creating concept-focused instructional tutorials, proposing real-world chemistry and materials science optimization tasks, or a general topic project. Submissions will be reviewed by a team of judges[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"}, and top-ranked projects will receive prizes sponsored by [Matterhorn Studio](https://matterhorn.studio/).
 
 ## Do I need to have a team to participate?
 
@@ -55,7 +55,7 @@ If you are interested in acting as a judge, please indicate so in the correspond
 
 ## How do I prepare for the project showcase?
 
-This can either be a poster image, a link to a video, or an embedded website. One of these objects will be placed into an interactive "poster" object for your project. The image or links must be supplied to the organizers 15 min prior to the showcase (see [agenda](_/../agenda.md)).
+This can either be a poster image (Better Poster generation 2 format encouraged), a link to a video, or an embedded website. One of these objects will be placed into an interactive "poster" object for your project. The image or links must be supplied to the organizers 15 min prior to the showcase (see [agenda](_/../agenda.md)). The project showcase happens at the end of the second day of the hackathon where peers and judges will move around the virtual event space and browse projects in Poster Rooms A and B. Final submissions are due the next day, which involves a 2-minute video submission.
 
 <!-- Better poster? -->
 
