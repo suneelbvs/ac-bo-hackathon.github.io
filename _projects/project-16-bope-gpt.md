@@ -10,7 +10,8 @@ contributors:
   - Sabah Gaznaghi (University of Queensland)
   - Clara Tamura (University of Washington)
   - Ratish Panda (Birla Institute of Technology)
-
+  - Zartashia Afzal (IcodeGuru)
+  - Raul Astudillo (Caltech)
 
 
 # github: AC-BO-Hackathon/<your-repo-name>
