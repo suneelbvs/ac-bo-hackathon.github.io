@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 43 # leave as-is, maintainers will adjust
 title: Bayesian Optimization Awesome List
 topic: tutorial
 team_leads:
