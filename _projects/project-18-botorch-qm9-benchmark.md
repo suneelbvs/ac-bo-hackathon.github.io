@@ -5,7 +5,7 @@ topic: benchmark-task
 team_leads:
   - Osman Mamun
   - Aditya Sundar
-  - Akhil Nair
+  - Akhil S. Nair
 
 # github: AC-BO-Hackathon/project-botorch-qm9-benchmark
 
