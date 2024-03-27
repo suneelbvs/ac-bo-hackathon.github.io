@@ -5,6 +5,10 @@ topic: real-world
 team_leads:
   - Tim Würger (Helmholtz-Zentrum Hereon)
   - Can Özkan (TU Delft)
+
+contributors:
+  - Alexander Wieczorek (ETH Zürich)
+  - Michail Mitsakis (DTU) 
   
 <!-- github: AC-BO-Hackathon/project-surface-science-syndicate -->
 <!-- youtube_video: <your-video-id> -->
