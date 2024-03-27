@@ -7,7 +7,7 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-  - Erik Lopez Saldivar
+  - Erick Lopez Saldivar
   - Christian Emmanuel Granados Cervantes
 
 # github: AC-BO-Hackathon/<your-repo-name>
