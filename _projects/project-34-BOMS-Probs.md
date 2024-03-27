@@ -1,6 +1,6 @@
 ---
 number: 34 # leave as-is, maintainers will adjust
-title:  Streamlining Material Discovery: Bayesian Optimization in Thermal Fluid Mixtures
+title:  Streamlining Material Discovery - Bayesian Optimization in Thermal Fluid Mixtures
 topic: general
 team_leads:
   - Roozbeh Alishahian (University of Toronto)
@@ -13,7 +13,6 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-
   - Seyed Mohamad Moosavi (University of Toronto)
   - Mohammad Zargartalebi (University of Toronto)
   - Hanie Rezaei (University of Toronto)
