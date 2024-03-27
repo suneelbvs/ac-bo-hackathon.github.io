@@ -3,17 +3,17 @@ number: 25 # leave as-is, maintainers will adjust
 title: Bayesian Optimization for Generality
 topic: benchmark-dev
 team_leads:
-  - Felix Strieth-Kalthoff (University of Toronto)
-  - Mohammad Haddadnia (Harvard University)
-  - Ella Rajaonson (University of Toronto)
-  - Stefan Schmid (ETH Zürich)
-  - Sean Park (University of Toronto)
-  - Yeonghun Kang (University of Toronto)
+  - Felix Strieth-Kalthoff (University of Toronto) @felix-s-k
+  - Mohammad Haddadnia (Harvard University) @mohaddadnia
+  - Ella Rajaonson (University of Toronto) @rajaonsonella
+  - Stefan Schmid (ETH Zürich) @stefanpschmid
+  - Sean Park (University of Toronto) @seanhspark
+  - Yeonghun Kang (University of Toronto) @yeonghun1675
 
 contributors:
   - 
 
-github: AC-BO-Hackathon/general-optimizers
+# github: AC-BO-Hackathon/general-optimizers
 # youtube_video: <your-video-id>
 
 ---
