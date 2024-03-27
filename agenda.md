@@ -49,12 +49,16 @@ Brainstorm, build, team up.
 
 ### Day 1: Mar 27
 
+A map of the foyer in the Gather Town space is shown below. You will enter the foyer from the south, and you can access the various rooms by walking through the corresponding doorways.
+
+![gather town foyer](assets/gather-town-foyer.png)
+
 | Time  | Activity |
 |-------|----------|
-| 09:00 | Welcome |
-| 09:05 | Speakers: <br> - Dr. Taylor Sparks (University of Utah) \| *Discovering materials twice as fast at a fraction of the cost through Bayesian optimization* <br> - Dr. Martin Fitzner (Merck KGaA) \| *Industrial view on BO – a perfect match for the low- to no-data regime* <br> - Dr. Max Balandat (Meta Adaptive Experimentation) \| *Bayesian Optimization for Sustainable Concrete* |
-| 10:00 | Orientation |
-| 10:10 | Breakout |
+| 09:00 | Welcome (Talk Room) |
+| 09:05 | Speakers (Talk Room): <br> - Dr. Taylor Sparks (University of Utah) \| *Discovering materials twice as fast at a fraction of the cost through Bayesian optimization* <br> - Dr. Martin Fitzner (Merck KGaA) \| *Industrial view on BO – a perfect match for the low- to no-data regime* <br> - Dr. Max Balandat (Meta Adaptive Experimentation) \| *Bayesian Optimization for Sustainable Concrete* |
+| 10:00 | Orientation (Talk Room) |
+| 10:10 | Breakout (Breakout Rooms A-G) / Team-building (Team Room) |
 | 13:00 | End of Day 1 |
 
 ### Day 2: Mar 28
@@ -62,8 +66,8 @@ Brainstorm, build, team up.
 | Time  | Activity |
 |-------|----------|
 | 09:00 | Welcome |
-| 09:10 | Breakout |
-| 12:00 | Project showcase and judging |
+| 09:10 | Breakout (Breakout Rooms A-G) |
+| 12:00 | Project showcase and judging (Poster Rooms A-B) |
 | 12:55 | Closing remarks and takeaways |
 | 13:00 | End of Day 2 |
 
