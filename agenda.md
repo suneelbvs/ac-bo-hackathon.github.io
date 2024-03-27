@@ -58,7 +58,7 @@ A map of the foyer in the Gather Town space is shown below. You will enter the f
 | 09:00 | Welcome (Talk Room) |
 | 09:05 | Speakers (Talk Room): <br> - Dr. Taylor Sparks (University of Utah) \| *Discovering materials twice as fast at a fraction of the cost through Bayesian optimization* <br> - Dr. Martin Fitzner (Merck KGaA) \| *Industrial view on BO – a perfect match for the low- to no-data regime* <br> - Dr. Max Balandat (Meta Adaptive Experimentation) \| *Bayesian Optimization for Sustainable Concrete* |
 | 10:00 | Orientation (Talk Room) |
-| 10:10 | Breakout (Breakout Rooms A-G) / Team-building (Team Room) |
+| 10:10 | Breakout (Breakout Rooms A-G) / Team-building (Talk Room) |
 | 13:00 | End of Day 1 |
 
 ### Day 2: Mar 28
