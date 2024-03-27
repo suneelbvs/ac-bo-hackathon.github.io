@@ -1,4 +1,4 @@
-number: 1 # leave as-is, maintainers will adjust
+number: 35 # leave as-is, maintainers will adjust
 title: Tutorial for GAUCHE: A Library for Gaussian Processes in Chemistry
 topic: tutorial
 team_leads:
@@ -6,16 +6,14 @@ team_leads:
   - Sang Truong
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
-contributors:
-  - Ryan-Rhys Griffiths
-  - Sang Truong
+# contributors:
 
 # github: AC-BO-Hackathon/project-gauche
 # youtube_video: <your-video-id>
 
 ---
 
-This project will create tutorials for GAUCHE
+This project will create tutorials for GAUCHE.
 
 References:
 
