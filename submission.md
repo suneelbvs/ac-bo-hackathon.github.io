@@ -14,28 +14,23 @@ While a list of topics is provided, we are open to new ideas. If you have a proj
 
 ### Topic 1: Applying Algorithms to Benchmark Tasks (`benchmark-task`)
 
-We will provide a set of prepackaged benchmark tasks and instructions, and your job will be to choose a package or algorithm and apply it to task(s) of your choice. The tasks will cover a broad range of both optimization complexity and application domains. Submissions that demonstrate algorithm performance on the hackathon-supplied benchmarks falls under the `benchmark-task` topic, but if the focus is on comparing algorithm performance on existing benchmarks that aren't part of the hackathon set, but not necessarily on creating an entirely new benchmark, this can go into either the `benchmark-task` or `general` topic. 
+We provide a set of prepackaged benchmark tasks and instructions, and your job will be to choose a package or algorithm and apply it to task(s) of your choice. The tasks will cover a broad range of both optimization complexity and application domains. Submissions that demonstrate algorithm performance on the hackathon-supplied benchmarks falls under the `benchmark-task` topic. Projects focused on comparing algorithm performance on existing benchmarks that aren't part of the hackathon set, but not necessarily on creating an entirely new benchmark, can go into either the `benchmark-task` or `general` topic.
 
-#### Benchmark Tasks
+The benchmark functions listed below have been prepared in advance of the hackathon. Each of these is hosted on the [Acceleration Consortium's Hugging Face organization](https://huggingface.co/AccelerationConsortium) and can be programmatically accessed via the "Use with API" instructions at the bottom of each benchmark function's webpage.
 
-We are still [refining the list of benchmark tasks](https://docs.google.com/spreadsheets/d/1Lua48pb5S2Xw9oerLSKy6dXmc2zh3H4JKNT8ZNdbigM/edit?usp=sharing). Please contact us or share a comment in the linked Google spreadsheet if you have suggestions for existing optimization benchmark datasets or tasks that you would like to see included.
-
-##### Domain
-
-- Analytical functions
-- Molecule Optimization
-- Materials Optimization
-
-##### Optimization features
-
-- Multi-fidelity Optimization
-- Constrained Optimization
-- Multi-objective Optimization
-- Real-world noise
+| Name | Description |
+| ---- | ---- |
+| [Branin function](https://huggingface.co/spaces/AccelerationConsortium/branin) | A 2D analytic function used for optimization benchmarking |
+| [Hybrid Space Toy](https://huggingface.co/spaces/AccelerationConsortium/Hybrid_Space_Toy) | A simple function with continuous and categorical parameters |
+| [Process Optimization Toy](https://huggingface.co/spaces/AccelerationConsortium/Process_Toy) | A simple continuous function with many irrelevant parameters |
+| [Hartmann-4](https://huggingface.co/spaces/AccelerationConsortium/TransferLearning4D) | The Hartmann function in 4 dimensions posed as a transfer learning task |
+| [Direct Arylation](https://huggingface.co/spaces/AccelerationConsortium/Direct_Arylation) | Optimize yield as a function of reaction conditions |
+| [Cross Coupling Reactions of Aryl Halides](https://huggingface.co/spaces/AccelerationConsortium/ArylHalides) | Optimize yield based on combinations of a base, ligand, additive, and aryl halide. |
+| [Advanced Optimization](https://huggingface.co/spaces/AccelerationConsortium/crabnet-hyperparameter) | A high-dimensional, multi-objective, multi-fidelity function. |
 
 ### Topic 2: Developing New Benchmarks (`benchmark-dev`)
 
-Ideally, these tasks will be representative of real-world problems in chemistry and materials science. While remotely accessible automated experiments would be the gold standard, the more pragmatic benchmark tasks typically include surrogate modeling. The new benchmark tasks should lean towards real-world conditions in terms of optimization problem type (objectives, fidelities, constraints) and/or relevance towards chemistry and materials applications (e.g., molecules, materials, reactions, etc.).
+Ideally, these tasks will be representative of real-world problems in chemistry and materials science. While remotely accessible automated experiments would be the gold standard, the more pragmatic benchmark tasks typically include surrogate modeling. The new benchmark tasks should lean towards real-world conditions in terms of optimization problem type (objectives, fidelities, constraints) and/or relevance towards chemistry and materials applications (e.g., molecules, materials, reactions, etc.). Ideally, these benchmark tasks will be hosted on Hugging Face spaces, similar to the tasks from `benchmark-task`. See the Hugging Face spaces section of the [resources page](_/../resources.md).
 
 ### Topic 3: Creating Instructional Tutorials (`tutorial`)
 
@@ -67,13 +62,13 @@ number: 1 # leave as-is, maintainers will adjust
 title: Project 1 title
 topic: <topic-name>
 team_leads:
-  - Project lead 1 (Institution 1)
-  - Project lead 2 (Institution 2)
+  - Project lead 1 (Institution 1) @gh-username1
+  - Project lead 2 (Institution 2) @gh-username2
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-  - Contributor 1 (Institution 1)
-  - Contributor 2 (Institution 2)
+  - Contributor 1 (Institution 1) @gh-username3
+  - Contributor 2 (Institution 2) @gh-username4
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
@@ -94,13 +89,13 @@ number: 1 # leave as-is, maintainers will adjust
 title: Investigation of Bandit Optimization for Composite Materials Design
 topic: general
 team_leads:
-  - Jane Doe (University of Invention)
-  - John Smith (Institute of Discovery)
+  - Jane Doe (University of Invention) @jdoe
+  - John Smith (Institute of Discovery) @john-smith
 
 contributors:
-  - Larry Lab (University of Invention)
-  - David Data (University of Science)
-  - Rachel Research (Institute of Discovery)
+  - Larry Lab (University of Invention) @labamation
+  - David Data (University of Science) @data4everyone
+  - Rachel Research (Institute of Discovery) @researchlife
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
@@ -133,6 +128,10 @@ github: AC-BO-Hackathon/benchmarking-bayes-bandits
 ```
 
 If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca). Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
+
+## Project showcase and judging
+
+Participants will prepare a poster image, a link to a video, or an embedded website to be showcased in either Poster Room A or Poster Room B from the Gather Town space (see [agenda](_/../agenda.md)). One of these objects will be placed into an interactive "poster" object for your project by an organizer. The item (image or link) should be supplied to the organizers 15 min prior to the showcase by posting in the slack channel or DM'ing Sterling Baird.
 
 ## End of hackathon
 
