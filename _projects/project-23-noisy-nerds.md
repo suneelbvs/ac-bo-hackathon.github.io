@@ -9,6 +9,7 @@ team_leads:
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
   - Brenden Pelkie (University of Washington)
+  - Karim Ben Hicham (RWTH Aachen)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
