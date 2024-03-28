@@ -1,6 +1,6 @@
 ---
 number: 31 # leave as-is, maintainers will adjust
-title: From Scikit-Optimize to Ax - A tutorial on human-in-the-loop Bayesian optimization  
+title: A tutorial on ask/tell mode for Ax 
 topic: tutorial
 team_leads:
   - Cameron Movassaghi (University of California, Los Angeles)
@@ -9,9 +9,9 @@ team_leads:
 contributors:
   - Yuyang Han (University of California, Los Angeles)
 
-# github: AC-BO-Hackathon/<your-repo-name>
-# youtube_video: <your-video-id>
+ github: csmova/AC_BO_Hackathon2024
+ youtube_video: X5PDvdXoBdA
 
 ---
 
-This tutorial is aimed at experimentalists in wet lab settings, who have data workflows in an ask/tell format. We will start from a simple, more user friendly package (Scikit-Optimize) and use real-world data from voltammetry to demonstrate setting up an ask/tell workflow. We will then demonstrate migrating to Ax, a more advanced platform with more capabilities. We hope this tutorial will streamline the dry-lab lead-time for wet-lab experimentalists setting up Bayesian optimization workflows in ask/tell or human in the loop formats.
+This tutorial is aimed at experimentalists in wet lab settings, who have data workflows in an ask/tell format. We  use real-world data from voltammetry to demonstrate setting up such a workflow. We cover de inner workings of Ax at a begginer-friendly level. We hope this tutorial will streamline the dry-lab lead-time for wet-lab experimentalists setting up Bayesian optimization workflows in ask/tell or human in the loop formats.
