@@ -4,10 +4,11 @@ title: Chemical Similarity-Informed Custom Kernel Bayesian Optimization for Pred
 team_leads:
   - Jiale Shi (Massachusetts Institute of Technology)
   - Dandan Tang (University of Virginia)
-
-contributors:
   - Qianxiang Ai (Massachusetts Institute of Technology)
   - Christoph Griehl (Max Planck Institute for Dynamics of Complex Technical Systems)
+    
+#contributors:
+
   
 
 # github: AC-BO-Hackathon/<your-repo-name>
