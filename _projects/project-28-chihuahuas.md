@@ -7,10 +7,12 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-  - Erick Lopez Saldivar
-  - Christian Emmanuel Granados Cervantes
+  - Erick Lopez Saldivar (Autonomous University of Chihuahua) @SilkenMocha
+  - Christian Emmanuel Granados Cervantes (Autonomous University of Chihuahua) @Salario-Minimo
+  - Anthony Onwuli (Imperial College London) @AntObi
+  - Xuan Vu Nguyen (Università degli Studi di Milano Statale) @XuanVuNguyen
 
-# github: AC-BO-Hackathon/<your-repo-name>
+github: AC-BO-Hackathon/Chihuahuas
 # youtube_video: <your-video-id>
 ---
 

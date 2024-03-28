@@ -7,19 +7,17 @@ team_leads:
 
 contributors:
   - Oliver Tang (University of Chicago)
-  - Nilesh Jain (Notsohuman.ai)
   - Suraj Sudhakar (University of Chicago)
   - Jaehee Park (University of Chicago)
   - Rija Ansari (National Research Council)
+  - Nilesh Jain (Notsohuman.ai)
 
 github: AC-BO-Hackathon/real-world-pme-no-hikari
 # youtube_video: [Youtube_Video_ID]
 
 ---
 
-In this work, we will investigate the optimal selection strategy to find top MOF candidates for carbon capture.
-We will adopt the CRAFTED MOF dataset and build Bayesian models with Thompson sampling acquisition function to perform candidate selection.
-We will also perform dimension reduction the featurized dataset to optimize the input for surrogate model training, and benchmark Thompson sampling against other acquisition functions to compare their performance in finding top MOF candidates at different adsorption pressures.
+Metal-organic frameworks are promising materials for carbon capture at large scale. In this work, we investigate the optimal MOF selection strategy to find top-performing candidates with the highest CO2 uptake. We adopt the CRAFTED MOF dataset and build Bayesian models with Thompson sampling acquisition function to perform candidate selection. We also benchmark Thompson sampling against other acquisition functions to compare their performance in finding top MOF candidates.
 
 References:
 

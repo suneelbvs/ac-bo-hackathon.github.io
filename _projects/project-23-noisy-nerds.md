@@ -10,6 +10,7 @@ team_leads:
 contributors:
   - Brenden Pelkie (University of Washington)
   - Karim Ben Hicham (RWTH Aachen)
+  - Utkarsh Pratiush (University of Tennessee)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>

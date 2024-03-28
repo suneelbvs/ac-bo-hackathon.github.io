@@ -3,7 +3,7 @@ number: 10 # leave as-is, maintainers will adjust
 title: Navigating the black box of zeolite synthesis with Bayesian Optimization
 topic: real-world
 team_leads:
-  - Dieter Plessers (KU Leuven)
+  - Dieter Plessers (KU Leuven) @DieterPlessers
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 #contributors:
