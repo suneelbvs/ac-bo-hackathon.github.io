@@ -19,7 +19,7 @@ A self-driving laboratory (SDL) is an autonomous platform that conducts machine 
 
 Here, we present a Python-based benchmark (ScattBO) that is an in silico simulation of an SDL for materials discovery. Based on a set of synthesis parameters, the benchmark ‘synthesises’ a structure, calculates the scattering pattern[2] and compares this to the scattering pattern of the target structure. Note: Scattering data may not be enough to conclusively validate that the target material has been synthesised.[3] The benchmark can include other types of data as long they can be simulated.
 
-More documentation and scoreboard can be found at https://github.com/AndySAnker/ScattBO/tree/main.
+More documentation and scoreboard can be found at [https://github.com/AndySAnker/ScattBO/tree/main](https://github.com/AndySAnker/ScattBO/tree/main).
 
 See our [two minute submission video](https://twitter.com/SodeAndy/status/1773474538631651769) on X!
 
