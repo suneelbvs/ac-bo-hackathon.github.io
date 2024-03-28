@@ -3,14 +3,15 @@ number: 25 # leave as-is, maintainers will adjust
 title: Bayesian Optimized De Novo Drug Design for Selective Kinase Targeting
 topic: real-world
 team_leads:
-  - Alexander Al-Feghali (McGill University)
+  - Alexander Al-Feghali (McGill University) @alxfgh
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
   - Sylvester Zhang (McGill University)
-  - Nicolas Gastellu (McGill University)
-  - Tao Liu (McGill University)
-  - Jerome Genzling (McGill University)
+  - Tao Liu (McGill University) @taoliu032
+  - Erfan Tolou (McGill University) @erfantoloue
+  - Elisa Mendoza @elisammz
+
 
 # github: AC-BO-Hackathon/mcgill-denovo
 
