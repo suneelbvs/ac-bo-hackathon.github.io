@@ -9,7 +9,7 @@ team_leads:
 contributors:
   - Matias Altamirano (<a href=http://matterhorn.studio/>Matterhorn Studio</a>) @maltamiranomontero
 
-# github: jakobzeitler/sustainable-concrete
+github: jakobzeitler/sustainable-concrete
 
 ---
 
