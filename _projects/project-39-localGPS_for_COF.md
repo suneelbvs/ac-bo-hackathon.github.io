@@ -24,7 +24,5 @@ COFS for testing this method [1].
 
 ---
 
-References :
-
 (1) Deshwal, A.; Simon, C. M.; Doppa, J. R. Bayesian Optimization of Nanoporous Materials. Mol. Syst. Des. Eng. 2021, 6 (12), 1066–1086. https://doi.org/10.1039/D1ME00093D.
 
