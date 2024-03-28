@@ -10,8 +10,8 @@ contributors:
   - Ramsey Issa (University of Utah) @ramseyissa
   - Dr. Taylor Sparks (University of Utah) @sp8rks
   
-github: https://github.com/AndrewFalkowski/TakeYourTime
-youtube_video: https://www.youtube.com/watch?v=WkGfShRSYW4
+github: AndrewFalkowski/TakeYourTime
+youtube_video: WkGfShRSYW4
 ---
 
 This project investigated the performance tradeoff of investing computational resources into acquisition function optimization. We demonstrated the impact of random seed initialization on optimization campaign performance and devised a simple algorithm, Random Retries, to mitigate and improve the consistency and performance of Bayesian optimization on difficult optimization problems.
