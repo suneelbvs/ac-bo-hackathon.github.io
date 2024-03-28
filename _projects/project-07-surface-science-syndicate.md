@@ -7,7 +7,7 @@ team_leads:
   - Can Özkan (TU Delft) @canozkan42
 
 contributors:
-  - Alexander Wieczorek (ETH Zürich) @Alex6022
+  - Alexander Wieczorek (Empa / ETH Zürich) @Alex6022
   - Michail Mitsakis (DTU) @lordmikerahl
   
 github: AC-BO-Hackathon/project-surface-science-syndicate
