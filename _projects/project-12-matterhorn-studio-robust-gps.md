@@ -3,13 +3,13 @@ number: 12 # leave as-is, maintainers will adjust
 title: Robust GPs for Sustainable Concrete via Bayesian Optimization
 topic: tutorial
 team_leads:
-  - Jakob Zeitler (<a href=http://matterhorn.studio/>Matterhorn Studio</a>)
+  - Jakob Zeitler (<a href=http://matterhorn.studio/>Matterhorn Studio</a>) @jakobzeitler
 
 # Comment these lines to hide these elements
 contributors:
-  - Matias Altamirano (<a href=http://matterhorn.studio/>Matterhorn Studio</a>)
+  - Matias Altamirano (<a href=http://matterhorn.studio/>Matterhorn Studio</a>) @maltamiranomontero
 
-# github: AC-BO-Hackathon/<your-repo-name>
+# github: jakobzeitler/sustainable-concrete
 
 ---
 
