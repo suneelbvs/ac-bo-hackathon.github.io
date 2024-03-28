@@ -1,16 +1,20 @@
 ---
-number: 15 # leave as-is, maintainers will adjust
+number: 15
 title: Adaptive Batch Sizes for Bayesian Optimization of Reaction Yield
 topic: general
 team_leads:
-  - Rubén Laplaza (Laboratory for Computational Molecular Design, EPFL, Switzerland)
-  - Jan Weinreich (Laboratory for Computational Molecular Design, EPFL, Switzerland)
+  - Rubén Laplaza (Laboratory for Computational Molecular Design, EPFL, Switzerland), @rlaplaza
+  - Jan Weinreich (Laboratory for Computational Molecular Design, EPFL, Switzerland), @janweinreich
 
 contributors:
-  - Danish Khan (University of Toronto)
-
-# github: AC-BO-Hackathon/<your-repo-name>
-# youtube_video: <your-video-id>
+  - Ksenia Briling (Laboratory for Computational Molecular Design, EPFL, Switzerland), @briling
+  - Yannick Calvino Alonso (Laboratory for Computational Molecular Design, EPFL, Switzerland), @YAY-C
+  - Alexandre Alain Schöpfer (Laboratory for Computational Molecular Design, EPFL, Switzerland), @aa-schoepfer
+  - Leon Schlosser (University of Münster, Germany), @le-schlo
+  - Florian Boser (University of Münster, Germany), @FlorianBoser
+ 
+# github: https://github.com/janweinreich/best_batchers
+# youtube_video: tdb
 
 ---
 
