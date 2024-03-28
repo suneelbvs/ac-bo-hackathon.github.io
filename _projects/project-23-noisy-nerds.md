@@ -11,7 +11,7 @@ contributors:
   - Brenden Pelkie (University of Washington)
   - Karim Ben Hicham (RWTH Aachen)
   - Utkarsh Pratiush (University of Tennessee)
-  - Joseph Manning (University of Manchester, UK)
+  - Joseph Manning (University of Manchester, UK) @jrhmanning
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
