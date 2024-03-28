@@ -131,7 +131,7 @@ If the submission instructions from above are daunting, you are welcome to submi
 
 ## Project showcase and judging
 
-Participants will prepare a poster image, a link to a video, or an embedded website to be showcased in either Poster Room A or Poster Room B from the Gather Town space (see [agenda](_/../agenda.md)). One of these objects will be placed into an interactive "poster" object for your project by an organizer. The item (image or link) should be supplied to the organizers 15 min prior to the showcase by posting in the slack channel or DM'ing Sterling Baird.
+Participants will prepare a poster image, a link to a video, or an embedded website to be showcased in either Poster Room A or Poster Room B from the Gather Town space (see [agenda](_/../agenda.md)). One of these objects will be placed into an interactive "poster" object for your project by an organizer. The item (image or link) should be supplied to the organizers 15 min prior to the showcase by posting in the slack channel or DM'ing Sterling Baird. See the [FAQ][faq]{:title="How do I prepare for the project showcase?"} for more info.
 
 ## End of hackathon
 
