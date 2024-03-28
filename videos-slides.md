@@ -6,9 +6,9 @@ menu_icon: film
 
 ## Talks
 
-<ul class="grid">
-
 Below are talk recordings from the welcome and speaker session of the hackathon.
+
+<ul class="grid">
 
 <li class="video" markdown="1">
 

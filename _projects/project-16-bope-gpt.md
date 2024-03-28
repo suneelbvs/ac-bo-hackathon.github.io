@@ -14,7 +14,7 @@ contributors:
   - Raul Astudillo (Caltech)
 
 
-# github: AC-BO-Hackathon/<your-repo-name>
+github: AC-BO-Hackathon/BOPE-GPT
 # youtube_video: <your-video-id>
 
 ---

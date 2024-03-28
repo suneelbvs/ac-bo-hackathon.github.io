@@ -13,12 +13,13 @@ team_leads:
 # contributors:
 #  - 
 
-# github: AC-BO-Hackathon/general-optimizers
+github: AC-BO-Hackathon/general-optimizers
 # youtube_video: <your-video-id>
 
 ---
 
-This project focuses on benchmarks and algorithms for "generality-oriented" Bayesian Optimization (BO). Usually, BO works by identifying those parameters x that optimize a single objective $f(\textbf{x})$. However, in the natural sciences, problems often involve several related objectives $\\{f_i(\textbf{x})\\}_{i=1}^n$. Here, the aim is to find parameters $\textbf{x}$ that do well across all these objective functions, without evaluating each $f_i(\textbf{x})$ in every iteration. A particularly important example of this is chemical reaction optimization, where the goal is to find reaction conditions that work well across a broad range of substrates. While recent years have seen early examples of generality-oriented BO, our goal is to establish benchmark tasks for generality-oriented BO, evaluate existing strategies, and develop new algorithms for generality-oriented BO (building on ideas from multi-fidelity optimization). 
+This project focuses on benchmarks and algorithms for "generality-oriented" Bayesian Optimization (BO). Usually, BO works by identifying those parameters x that optimize a single objective $f(\textbf{x})$. However, in the natural sciences, problems often involve several related objectives {f<sub>i</sub>(<b>x</b>)}<sub>i=1</sub><sup>n</sup>. Here, the aim is to find parameters $\textbf{x}$ that do well across all these objective functions, without evaluating each f<sub>i</sub>(<b>x</b>) in every iteration. A particularly important example of this is chemical reaction optimization, where the goal is to find reaction conditions that work well across a broad range of substrates. While recent years have seen early examples of generality-oriented BO, our goal is to establish benchmark tasks for generality-oriented BO, evaluate existing strategies, and develop new algorithms for generality-oriented BO (building on ideas from multi-fidelity optimization). 
+
 
 References:
 

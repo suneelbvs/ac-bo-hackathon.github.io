@@ -8,6 +8,7 @@ team_leads:
 contributors:
   - Ayodeji Ijishakin (<a href=http://matterhorn.studio/>Matterhorn Studio</a>)
   - Andy Anker (Technical University of Denmark (DTU))
+  - Zhenzhu Li (Imperial College London) @lizhenzhupearl
 
 # github: AC-BO-Hackathon/<your-repo-name>
 

@@ -3,14 +3,14 @@ number: 7 <!-- leave as-is, maintainers will adjust -->
 title: BayBE One More Time - Exploring Corrosion Inhibitors for Materials Design
 topic: real-world
 team_leads:
-  - Tim Würger (Helmholtz-Zentrum Hereon)
-  - Can Özkan (TU Delft)
+  - Tim Würger (Helmholtz-Zentrum Hereon) @koerper
+  - Can Özkan (TU Delft) @canozkan42
 
 contributors:
-  - Alexander Wieczorek (ETH Zürich)
-  - Michail Mitsakis (DTU) 
+  - Alexander Wieczorek (Empa / ETH Zürich) @Alex6022
+  - Michail Mitsakis (DTU) @lordmikerahl
   
-<!-- github: AC-BO-Hackathon/project-surface-science-syndicate -->
+github: AC-BO-Hackathon/project-surface-science-syndicate
 <!-- youtube_video: <your-video-id> -->
 ---
 
