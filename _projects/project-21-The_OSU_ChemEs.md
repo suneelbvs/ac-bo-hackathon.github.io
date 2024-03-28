@@ -13,7 +13,7 @@ contributors:
   - Ting-Yeh Chen (The Ohio State University)
 
 
-github: AC-BO-Hackathon/The_OSU_ChemEs
+github: AC-BO-Hackathon/project-The_OSU_ChemEs
 # youtube_video: <your-video-id>
 
 ---
