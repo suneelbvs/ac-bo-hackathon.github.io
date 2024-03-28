@@ -7,7 +7,6 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-  - Alexander Al-Feghali
   - Jérôme Genzling
   - Nicolas Gastellu
   - Tao Liu
