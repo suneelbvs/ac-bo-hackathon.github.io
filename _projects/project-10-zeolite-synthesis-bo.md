@@ -11,11 +11,11 @@ team_leads:
 #  - Contributor 2 (Institution 2)
 
 github: AC-BO-Hackathon/project-zeolite-synthesis-bayesian-optimisation
-# youtube_video: <your-video-id>
+youtube_video: 4lFEUixwkE8
 
 ---
 
-Despite their massive industrial importance as catalysts, ion exchanger and adsorbent, zeolite synthesis still mostly relies on heuristics, experience and a sprinkle of magic. The parameter space is vast, comprising continuous variables (concentration of reagents, temperature, synthesis time...) and categorical variables (choice of precursor salts...). Different objectives are required depending on the specific target application (target Si/Al, high synthesis yield, crystal size, reducing expensive reagents, short synthesis time...). Bayesian optimisation could speed up zeolite synthesis research and reduce the associated costs compared to the extensive grid search that nowadays is often performed in labs. 
+Despite their massive industrial importance as catalysts, ion exchanger and adsorbent, zeolite synthesis still mostly relies on heuristics, experience and a sprinkle of magic. The parameter space is vast, comprising continuous variables (concentration of reagents, temperature, synthesis time...) and categorical variables (choice of precursor salts...). Different objectives are required depending on the specific target application (high synthesis yield, specific crystal size, target Si/Al, reducing expensive reagents, short synthesis time...). Employing Bayesian optimization has the potential to swiftly navigate the extensive parameter space in zeolite synthesis research and reduce associated costs compared to random or grid search. 
 
 References:
 
