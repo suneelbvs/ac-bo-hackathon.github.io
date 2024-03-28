@@ -8,15 +8,14 @@ menu_icon: film
 
 <ul class="grid">
 
-This section will be populated with the talks from the welcome session of the hackathon.
+Below are talk recordings from the welcome and speaker session of the hackathon.
 
 <!-- <li class="video" markdown="1">
 
-{% include youtube.html video="lIanN0DI9R8" title="Best practices for reproducible research – Thinking in Spreadsheets" %}
+{% include youtube.html video="g4Pv3cVkSIg" title="Discovering materials twice as fast at a fraction of the cost through Bayesian optimization" %}
 
-In this talk given at the CMIP6 Data Hackathon 2021, Jean Golding Institute
-data scientist **James Thomas** gives an overview of some of the best
-practices to follow when coding for reproducible research.
+
+In this talk given at the BO Hackathon for Chemistry and Materials '24, University of Utah professor **Taylor Sparks** describes the need for good data to leverage the Acceleration that comes from using data-driven methods, and the role that Bayesian optimization plays in exploring materials search spaces. Dr. Sparks also addresses the concept of multi-objective optimization and the need to consider tradeoffs between multiple properties of interest through Pareto frontiers.
 </li>
 
 <li class="video" markdown="1">
