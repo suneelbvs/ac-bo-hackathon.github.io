@@ -10,7 +10,7 @@ contributors:
   - Jakob Zeitler (University College London) @jakobzeitler
   - Connor Rupnow (University of British Columbia (former)) @connorrupnow
 
-# github: jakobzeitler/interpretable-BO
+github: jakobzeitler/interpretable-BO
 # youtube_video: <your-video-id>
 
 ---
