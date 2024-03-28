@@ -9,8 +9,8 @@ team_leads:
 contributors:
   - Yuyang Han (University of California, Los Angeles)
 
- github: csmova/AC_BO_Hackathon2024
- youtube_video: X5PDvdXoBdA
+github: csmova/AC_BO_Hackathon2024
+youtube_video: X5PDvdXoBdA
 
 ---
 
