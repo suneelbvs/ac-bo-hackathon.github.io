@@ -11,7 +11,7 @@ contributors:
   - Ankur Gupta (Lawrence Berkeley National Laboratory)
   - Christina Schenk (IMDEA Materials Institute)
 
-github: [project 8](https://frankwanger.github.io/ACBO-Feat/)
+github: frankwanger/ACBO-Feat
 # youtube_video: <your-video-id>
 
 ---
