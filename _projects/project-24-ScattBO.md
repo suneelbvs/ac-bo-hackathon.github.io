@@ -12,9 +12,7 @@ contributors:
   - Giuseppe Fisicaro (CNR Institute for Microelectronics and Microsystems, Catania, Italy)
   - Gabriel L. Graves (Georgia Institute of Technology)
 
-# github: AndySAnker/ScattBO
-# Twitter post: https://twitter.com/SodeAndy/status/1773474538631651769
-
+github: AndySAnker/ScattBO
 ---
 
 A self-driving laboratory (SDL) is an autonomous platform that conducts machine learning (ML) selected experiments to achieve a user-defined objective. An objective can be to synthesise a specific material.[1] Such an SDL will synthesise a material, evaluate if this is the target material and if necessary optimise the synthesis parameters for the next synthesis. One way to evaluate if the material is the target material is by measuring scattering data and comparing that to the scattering pattern of the target material. However, these types of SDLs can be expensive to run, which means that intelligent experimental planning is essential. At the same time, only a few people have access to an SDL for materials discovery. Therefore, it is currently challenging to benchmark Bayesian optimisation algorithms for experimental planning tasks in SDLs.
@@ -22,6 +20,8 @@ A self-driving laboratory (SDL) is an autonomous platform that conducts machine 
 Here, we present a Python-based benchmark (ScattBO) that is an in silico simulation of an SDL for materials discovery. Based on a set of synthesis parameters, the benchmark ‘synthesises’ a structure, calculates the scattering pattern[2] and compares this to the scattering pattern of the target structure. Note: Scattering data may not be enough to conclusively validate that the target material has been synthesised.[3] The benchmark can include other types of data as long they can be simulated.
 
 More documentation and scoreboard can be found at https://github.com/AndySAnker/ScattBO/tree/main.
+
+See our [two minute submission video](https://twitter.com/SodeAndy/status/1773474538631651769) on X!
 
 **References**:
 
