@@ -11,7 +11,7 @@ contributors:
   - Ankur Gupta (Lawrence Berkeley National Laboratory)
   - Christina Schenk (IMDEA Materials Institute)
 
-# github: AC-BO-Hackathon/<your-repo-name>
+github: [project 8](https://frankwanger.github.io/ACBO-Feat/)
 # youtube_video: <your-video-id>
 
 ---
