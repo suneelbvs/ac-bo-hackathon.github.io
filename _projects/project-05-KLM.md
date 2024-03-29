@@ -13,7 +13,7 @@ team_leads:
  
 <!-- github: AC-BO-Hackathon/<your-repo-name> -->
 
-<!-- youtube_video: <your-video-id> -->
+youtube_video: znXZhSqFtHg
 ---
 
 This project will focus on trying to simulate the decision-making of a human researcher using a Bayesian Optimization framework, then comparing the performance across different, improved hyperparameters. By exploring these differences, this project aims to understand the strengths and weaknesses of Bayesian Optimization relative to the decision-making of a researcher with access to the same data.
