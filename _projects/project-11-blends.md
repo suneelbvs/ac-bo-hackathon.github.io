@@ -6,8 +6,10 @@ team_leads:
   - Daniele Ongari (SYENSQO)
   - Alessio Tamburro (SYENSQO)
 
-github: [danieleongari/blends](https://github.com/danieleongari/blends)
-youtube_video: [HASa3tFLZoI](https://www.youtube.com/watch?v=HASa3tFLZoI)
+contributors:
+
+github: danieleongari/blends
+youtube_video: HASa3tFLZoI
 
 ---
 
