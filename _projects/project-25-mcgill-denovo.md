@@ -3,17 +3,18 @@ number: 25 # leave as-is, maintainers will adjust
 title: Bayesian Optimized De Novo Drug Design for Selective Kinase Targeting
 topic: real-world
 team_leads:
-  - Alexander Al-Feghali (McGill University)
+  - Alexander Al-Feghali (McGill University) @alxfgh
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
   - Sylvester Zhang (McGill University)
-  - Nicolas Gastellu (McGill University)
-  - Tao Liu (McGill University)
-  - Jerome Genzling (McGill University)
+  - Tao Liu (McGill University) @taoliu032
+  - Erfan Toloue (McGill University) @erfantoloue
+  - Elisa Mendoza @elisammz
 
-# github: AC-BO-Hackathon/mcgill-denovo
 
+github: alxfgh/BO-De-Novo-Drug-Design-Docking
+youtube_video: nVtTYXxG7i4
 ---
 This project employs Bayesian optimization using Gaussian process (GP) models with the Tanimoto kernel and fingerprint features for de novo design of selective growth factor receptor (GFR) inhibitors. GP surrogate models of docking scores will drive optimization of a docking-based objective function balancing potent target binding and minimal off-target interactions, with a drug-likeness penalty. The GP is trained on a subset of data, with new molecules proposed by a graph genetic algorithm, scored, and used to retrain the GP iteratively, aiming to identify promising selective GFR inhibitor candidates.
 

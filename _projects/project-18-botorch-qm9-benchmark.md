@@ -7,7 +7,7 @@ team_leads:
   - Aditya Sundar
   - Akhil S. Nair
 
-# github: AC-BO-Hackathon/project-botorch-qm9-benchmark
+github: AC-BO-Hackathon/project-mobo-qm9
 
 ---
 

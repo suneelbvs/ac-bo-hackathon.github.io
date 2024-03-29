@@ -7,10 +7,10 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-  - Jakob Zeitler (University College London)
-  - Connor Rupnow (University of British Columbia (former))
+  - Jakob Zeitler (University College London) @jakobzeitler
+  - Connor Rupnow (University of British Columbia (former)) @connorrupnow
 
-# github: AC-BO-Hackathon/<your-repo-name>
+github: jakobzeitler/interpretable-BO
 # youtube_video: <your-video-id>
 
 ---
