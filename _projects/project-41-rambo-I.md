@@ -11,7 +11,7 @@ team_leads:
   - Philippe Schwaller (EPFL)
 
 
-github: AC-BO-Hackathon/rambo-I
+github: schwallergroup/rambo-I
 # youtube_video: <your-video-id>
 
 ---
