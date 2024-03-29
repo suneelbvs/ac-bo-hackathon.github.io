@@ -12,7 +12,7 @@ contributors:
   - Luis Walter (Heidelberg University)
   - Curtis Chong (University of Waterloo)
 
-# github: AC-BO-Hackathon/<your-repo-name>
+github: AC-BO-Hackathon/project_acquisition_functions
 # youtube_video: <your-video-id>
 
 ---
