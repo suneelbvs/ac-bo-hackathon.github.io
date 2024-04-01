@@ -26,7 +26,7 @@ github: schwallergroup/rambo-I
 
 This project aims to incorporate literature knowledge to jump-start Bayesian optimization by finding relevant studies that match the design space of the reaction to optimize. By using Retrieval Augmented Generation (RAG) we can map the optimization parameters to the closest point in the literature space and use knowledge from the literature to select the initial points for the Bayesian optimization process. 
 
-Check out [our video submission on X](https://twitter.com/6ojaHa/status/1773734082637095155)!
+Check out [our submission post on X](https://twitter.com/6ojaHa/status/1773734082637095155)!
 
 References:
 
