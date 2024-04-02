@@ -135,7 +135,7 @@ The closing session on {{ site.event_close_date }} is for sharing with peers and
 
 ## End of hackathon
 
-To ensure a dynamic and engaging submission process, we ask that all hackathon teams submit their final projects through social media (e.g., Twitter, LinkedIn, YouTube) and then link to this in their project file. By sharing your work with a broader audience, you’ll help to promote groundbreaking research in materials science and chemistry while inspiring others to contribute to the field.
+To ensure a dynamic and engaging submission process, we ask that all hackathon teams submit their final projects through social media (e.g., Twitter, LinkedIn, YouTube) and then link to this in their project file. By sharing your work with a broader audience, you’ll help to promote groundbreaking research in materials science and chemistry while inspiring others to contribute to the field. This step is also a requirement for teams wishing to contribute to the scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}
 
 Here are the guidelines for submitting your project:
 
