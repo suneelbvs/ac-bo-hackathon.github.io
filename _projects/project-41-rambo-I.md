@@ -12,6 +12,7 @@ team_leads:
 
 
 github: schwallergroup/rambo-I
+# youtube_video: <your-video-id>
 
 ---
 
@@ -20,6 +21,14 @@ github: schwallergroup/rambo-I
     <div class="video-container">
       <img alt="RAMBO" src="https://video.twimg.com/ext_tw_video/1773717276400750592/pu/vid/avc1/1102x720/ZqAm0K0IcY3l78c6.mp4">
       <span class="play-button bi bi-play-fill"></span>
+    </div>
+  </a>
+</div>
+
+<div>
+  <a href="https://twitter.com/6ojaHa/status/1773734082637095155" title="Play video">
+    <div class="video-container">
+        <source src="https://video.twimg.com/ext_tw_video/1773717276400750592/pu/vid/avc1/1102x720/ZqAm0K0IcY3l78c6.mp4" type="video/mp4">
     </div>
   </a>
 </div>
