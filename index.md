@@ -88,7 +88,7 @@ We want to express our gratitude to all the participants for their contributions
 
 {% if event_status != "over" %}
 
-Prizes sponsored by [Matterhorn Studio](https://matterhorn.studio/) will be announced the day after the hackathon for the highest-ranked[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"} projects (see project showcase and judging session on Day 2 of [agenda](_/../agenda.md)). Tentative prize tiers are below, and submissions from any project topic are eligible. Each prize will be awarded in the form of a gift card.
+Prizes sponsored by [Matterhorn Studio](https://matterhorn.studio/) will be announced the day after the hackathon for the highest-ranked[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"} projects based on the project showcase and judging session on Day 2 of [agenda](_/../agenda.md). Tentative prize tiers are below, and submissions from any project topic are eligible. Each prize will be awarded in the form of a gift card.
 
 | Rank | Prize |
 | --- | --- |
