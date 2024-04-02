@@ -102,16 +102,16 @@ We'd like to congratulate the following teams for their outstanding contribution
 
 | Rank | Project # | Team Name | Project Name |
 | --- | --- | --- | --- |
-1st | Project 23 | Noisy Nerds | Reliable Surrogate Models of Noisy Data |
-2nd | Project 34 | BOMS Prob | Streamlining Material Discovery - Bayesian Optimization in Thermal Fluid Mixtures |
-3rd | Project 7 | Surface Science Syndicate | BayBE One More Time - Exploring Corrosion Inhibitors for Materials Design |
-4th | Project 5 | KLM | Comparing Bayesian Optimization Methods Across Multiple Hyperparameters Against Simulated "Human" Decision-making |
-5th | Project 8 | Molecular Representation | BO for Drug Discovery-What is the role of molecular representation? |
-6th | Project 9 | PME No Hikari | Optimizing The CO2 Adsorption Capacity of Metal-Organic Frameworks Using Thompson Sampling |
-7th | Project 11 | BlenDS | BlendDS - An intuitive specification of the design space for blends of components |
-8th | Project 30 | SERO Opt | Active learning for voltammetry waveform design |
-9th | Project 43 | Awesome List | Bayesian Optimization Awesome List |
-10th | Project 3 | Sparks Group | Take Your Time - Measuring Optimization Performance as a Function of ACQF Optimizer Runtime |
+1st | [Project 23](https://ac-bo-hackathon.github.io/projects/project-23-noisy-nerds/) | Noisy Nerds | Reliable Surrogate Models of Noisy Data |
+2nd | [Project 34](https://ac-bo-hackathon.github.io/projects/project-34-boms-probs/) | BOMS Prob | Streamlining Material Discovery - Bayesian Optimization in Thermal Fluid Mixtures |
+3rd | [Project 7](https://ac-bo-hackathon.github.io/projects/project-07-surface-science-syndicate/) | Surface Science Syndicate | BayBE One More Time - Exploring Corrosion Inhibitors for Materials Design |
+4th | [Project 5](https://ac-bo-hackathon.github.io/projects/project-05-klm/) | KLM | Comparing Bayesian Optimization Methods Across Multiple Hyperparameters Against Simulated "Human" Decision-making |
+5th | [Project 8](https://ac-bo-hackathon.github.io/projects/project-08-molecular-representation/) | Molecular Representation | BO for Drug Discovery-What is the role of molecular representation? |
+6th | [Project 9](https://ac-bo-hackathon.github.io/projects/project-09-pme-no-hikari/) | PME No Hikari | Optimizing The CO2 Adsorption Capacity of Metal-Organic Frameworks Using Thompson Sampling |
+7th | [Project 11](https://ac-bo-hackathon.github.io/projects/project-11-blends/) | BlenDS | BlendDS - An intuitive specification of the design space for blends of components |
+8th | [Project 30](https://ac-bo-hackathon.github.io/projects/project-30-sero-opt/) | SERO Opt | Active learning for voltammetry waveform design |
+9th | [Project 43](https://ac-bo-hackathon.github.io/projects/project-43-general-optimizers/) | Awesome List | Bayesian Optimization Awesome List |
+10th | [Project 3](https://ac-bo-hackathon.github.io/projects/project-03-sparks-group/) | Sparks Group | Take Your Time - Measuring Optimization Performance as a Function of ACQF Optimizer Runtime |
 
 For a full list of hackathon projects, we encourage you to check out the [projects page](_/../projects.md).
 
