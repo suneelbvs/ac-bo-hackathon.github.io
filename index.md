@@ -79,7 +79,7 @@ With the completion of a 2-day virtual hackathon hosted by scientists from the A
 
 During the hackathon, researchers had the opportunity to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks, design new benchmark tasks, create instructional tutorials, describe real-world applications, and more. The results of this collaborative effort will be collated and presented in a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
 
-Although the event has concluded, the outputs from the hackathon, including applied and developed algorithms, benchmarks, and tutorials, will continue to serve as valuable resources for the research community. Outputs from teams that have opted to release their projects are available at https://github.com/AC-BO-Hackathon. We believe that through this event, new connections have been formed, new skills have been acquired, and new ideas have been inspired.
+Although the event has concluded, the outputs from the hackathon, including applied and developed algorithms, benchmarks, and tutorials, will continue to serve as valuable resources for the research community. Outputs from teams that have opted to release their projects are available at [https://github.com/AC-BO-Hackathon](https://github.com/AC-BO-Hackathon) or through their own accounts (see individual project pages for links). We believe that through this event, new connections have been formed, new skills have been acquired, and new ideas have been inspired.
 
 We want to express our gratitude to all the participants for their contributions, and we look forward to future collaborations in advancing Bayesian optimization in chemistry and materials science.
 {% endif %}
