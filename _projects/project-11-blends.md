@@ -22,5 +22,7 @@ into a root blend, and finally generate valid samples from the blend space that 
 We will compare this easy-to-use approach (whose generation of samples resembles a model-agnostic space filling design),
 with the classical Mixture Design DOE. 
 
+Check out our social media post on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7181199576073154560/)!
+
 References:
 - [NIST, Engineering Statistics Handbook: 5.5.4 What is a Mixture Design?](https://www.itl.nist.gov/div898/handbook/pri/section5/pri54.htm)
