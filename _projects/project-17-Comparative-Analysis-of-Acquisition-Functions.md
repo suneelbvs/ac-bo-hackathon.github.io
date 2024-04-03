@@ -3,7 +3,7 @@ number: 17 # leave as-is, maintainers will adjust
 title: Comparative Analysis of Acquisition Functions in Bayesian Optimization for Drug Discovery
 topic: general
 team_leads:
-  - Suneel Kumar BVS (Molecular Forecaster) @ suneelbvs
+  - Suneel Kumar BVS (Molecular Forecaster) @suneelbvs
 
 contributors:
   - Jan Christopher Spies (University of Muenster) @JanCSpies
