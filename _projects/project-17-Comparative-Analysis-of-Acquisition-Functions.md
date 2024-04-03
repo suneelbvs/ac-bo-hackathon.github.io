@@ -3,14 +3,14 @@ number: 17 # leave as-is, maintainers will adjust
 title: Comparative Analysis of Acquisition Functions in Bayesian Optimization for Drug Discovery
 topic: general
 team_leads:
-  - Suneel Kumar BVS (Molecular Forecaster)
+  - Suneel Kumar BVS (Molecular Forecaster) @ suneelbvs
 
 contributors:
-  - Jan Christopher Spies (University of Muenster)
-  - Jakub Lála (Imperial College London) 
-  - Yunheng Zou (University of Waterloo)
-  - Luis Walter (Heidelberg University)
-  - Curtis Chong (University of Waterloo)
+  - Jan Christopher Spies (University of Muenster) @JanCSpies
+  - Jakub Lála (Imperial College London) @jakublala
+  - Yunheng Zou (University of Waterloo) @yunhzou
+  - Luis Walter (Heidelberg University) @daandtu
+  - Curtis Chong (University of Waterloo) @curtischong
 
 github: AC-BO-Hackathon/project_acquisition_functions
 youtube_video: 5AjwoZtjgOc
